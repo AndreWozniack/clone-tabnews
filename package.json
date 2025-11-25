@@ -1,0 +1,18 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Imprementação do Tabnews para o curso.dev, com implementação de fora a fora",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.5.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
