@@ -9,7 +9,7 @@ function Home() {
         fontFamily:
           'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif',
         backgroundColor: "#ffffff",
-        color: "#000000",
+        color: "#000000", 
       }}
     >
       <div style={{ textAlign: "center" }}>
